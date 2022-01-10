@@ -11,6 +11,6 @@ Librerias usadas:
 - redis
 - uuid
 
-![](./img/image1.png)
+<img src="./img/image1.png" width="350">
 
-<img src="./img/image2.png" width="200">
+<img src="./img/image2.png" width="350">
